@@ -1,0 +1,1 @@
+web: gunicorn advrtproject.wsgi --log-file-
